@@ -25,7 +25,7 @@ A food chatbot is an AI-driven application designed to assist users in ordering 
 ## Run the application:
    uvicorn main:app --reload
 
-## picture of chat bot sequence of talk:
+## Chat Bot Happy Path:
 ![Screenshot 2024-08-03 115136](https://github.com/user-attachments/assets/a06c00c0-bfe8-47e0-a15a-a103412b9b78)
 
 
