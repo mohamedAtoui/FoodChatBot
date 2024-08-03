@@ -15,10 +15,12 @@ A food chatbot is an AI-driven application designed to assist users in ordering 
    ```sh
    git clone https://github.com/yourusername/food-chatbot.git
    cd food-chatbot
+   
 
 ## Install dependencies
-   ```sh
+   
    pip install -r requirements.txt
+   
 
 ## Run the application:
    ```sh
