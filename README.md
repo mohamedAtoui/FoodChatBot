@@ -17,10 +17,12 @@ A food chatbot is an AI-driven application designed to assist users in ordering 
    cd food-chatbot
 
 ## Install dependencies
-pip install -r requirements.txt
+   ```sh
+   pip install -r requirements.txt
 
 ## Run the application:
-uvicorn main:app --reload
+   ```sh
+   uvicorn main:app --reload
 
 
 
